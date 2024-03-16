@@ -9,7 +9,7 @@ pipeline {
                     sh '''
                         g++ -o sample sample.cpp
                     '''
-                    build job: 'PES2UG21CS140-1'
+                    build job: 'PES2UG21CS14000-1'
                 }
             }
         }
